@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+}
+img {
+    width: 50%;
+    height: 60%;
+    transition:0.5s;
+}
+
+.title{
+    text-transform: capitalize;
+    color: rgb(22, 34, 145);
+}
+.close{
+    margin-bottom: 20px;
+}

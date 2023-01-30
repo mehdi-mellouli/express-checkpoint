@@ -1,0 +1,24 @@
+{
+  "name": "checkpoint-express",
+  "version": "1.0.0",
+  "description": "checkpoint node express (web application is only available during working hours)",
+  "main": "server.js",
+  "scripts": {
+    "nodemon": "nodemon server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarhoumiHachem/checkpoint-express.git"
+  },
+  "author": "hachem barhoumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarhoumiHachem/checkpoint-express/issues"
+  },
+  "homepage": "https://github.com/BarhoumiHachem/checkpoint-express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
